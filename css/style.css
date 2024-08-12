@@ -27,6 +27,10 @@ section {
     margin: 50px 0;
 }
 
+a {
+    color: rgb(124, 2, 124)
+}
+
 img {
     width: 30%;
 }
